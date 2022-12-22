@@ -1,0 +1,28 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+
+
+.container{
+border:2px solid rgb(63, 50, 136);
+margin: 3px 0;
+padding: 10px;
+background-color: aqua;
+
+}
+
+.bg-primary{
+    background-color: aquamarine;
+
+}
+
+.text-highlight{
+    color: rgb(241, 8, 101);
+    font-weight: bold;
+    font-family:fantasy ; 
+}
